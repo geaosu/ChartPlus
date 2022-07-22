@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#527CFF</color>
+    <color name="colorPrimaryDark">#527CFF</color>
+    <color name="colorAccent">#527CFF</color>
+
+    <color name="app_color">#527CFF</color>
+    <color name="axis">#979797</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="balck">#000000</color>
+    <color name="gray">#999999</color>
+    <color name="blue">#07afec</color>
+    <color name="green">#00E099</color>
+    <color name="page_bg">#EDEFFD</color>
+    <color name="color_505050">#505050</color>
+    <color name="color_39BF2B">#39BF2B</color>
+    <color name="color_EAE8E8">#EAE8E8</color>
+    <color name="color_FFD1D1">#FFD1D1</color>
+    <color name="color_FFD3C5">#FFD3C5</color>
+    <color name="color_FFECC5">#FFECC5</color>
+
+    <color name="color_EE1B24">#EE1B24</color>
+    <color name="color_FF6A39">#FF6A39</color>
+    <color name="color_FBB425">#FBB425</color>
+    <color name="black">#000000</color>
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ChartPlusCirclePercentView">
+        <!--进度-->
+        <attr name="chartPlusCirclePercentViewProgress" format="float" />
+        <!--圆弧背景色-->
+        <attr name="chartPlusCirclePercentViewProgressBgColor" format="reference|color" />
+        <!--圆弧进度条颜色-->
+        <attr name="chartPlusCirclePercentViewProgressColor" format="reference|color" />
+        <!--圆弧宽度-->
+        <attr name="chartPlusCirclePercentViewRadius" format="dimension" />
+        <!--是否渐变-->
+        <attr name="chartPlusCirclePercentViewIsGradient" format="boolean" />
+        <!--渐变开始颜色-->
+        <attr name="chartPlusCirclePercentViewGradientStartColor" format="reference|color" />
+        <!--渐变结束颜色-->
+        <attr name="chartPlusCirclePercentViewGradientEndColor" format="reference|color" />
+        <!--文字颜色-->
+        <attr name="chartPlusCirclePercentViewTextColor" format="reference|color" />
+        <!--文字大小-->
+        <attr name="chartPlusCirclePercentViewTextSize" format="reference|integer" />
+        <!--文字是否加粗-->
+        <attr name="chartPlusCirclePercentViewTextStyleIsBold" format="boolean" />
+    </declare-styleable>
+
+    <declare-styleable name="ChartPlusPieView">
+        <!--是否有缺口-->
+        <attr name="chartPlusPieViewIsHaveGap" format="boolean" />
+        <!--圆弧背景色-->
+        <attr name="chartPlusPieViewBgColor" format="reference|color" />
+        <!--文字颜色-->
+        <attr name="chartPlusPieViewTextColor" format="reference|color" />
+        <!--文字大小-->
+        <attr name="chartPlusPieViewTextSize" format="reference|integer" />
+        <!--文字是否加粗-->
+        <attr name="chartPlusPieViewTextStyleIsBold" format="boolean" />
+        <!--副标题文字颜色-->
+        <attr name="chartPlusPieViewSubTextColor" format="reference|color" />
+        <!--副标题文字大小-->
+        <attr name="chartPlusPieViewSubTextSize" format="reference|integer" />
+        <!--副标题文字是否加粗-->
+        <attr name="chartPlusPieViewSubTextStyleIsBold" format="boolean" />
+    </declare-styleable>
+
+</resources>
